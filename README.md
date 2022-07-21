@@ -15,5 +15,5 @@
 **4. Abstractive Summarization**
 * <a href = "https://arxiv.org/pdf/1912.08777v2.pdf"> PEGASUS: Pre-training with Extracted Gap-sentences for
 Abstractive Summarization </a>
-
+* <a href = "https://arxiv.org/pdf/2203.16804v1.pdf"> BRIO: Bringing Order to Abstractive Summarization </a>
 ---
