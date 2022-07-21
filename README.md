@@ -13,5 +13,7 @@
 
 ---
 **4. Abstractive Summarization**
+* <a href = "https://arxiv.org/pdf/1912.08777v2.pdf"> PEGASUS: Pre-training with Extracted Gap-sentences for
+Abstractive Summarization </a>
 
 ---
