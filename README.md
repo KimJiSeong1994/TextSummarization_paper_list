@@ -10,7 +10,7 @@
 
 ---
 **3. Extractive Summarization**
-* <a href = "https://arxiv.org/pdf/2004.08795.pdf"> Extractive Summarization as Text Matching </a>
+* <a href = "https://arxiv.org/pdf/2004.08795.pdf"> Extractive Summarization as Text Matching - MatchSUM </a>
 ---
 **4. Abstractive Summarization**
 * <a href = "https://arxiv.org/pdf/1912.08777v2.pdf"> PEGASUS: Pre-training with Extracted Gap-sentences for
