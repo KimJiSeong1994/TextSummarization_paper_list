@@ -11,7 +11,10 @@
 ---
 **3. Extractive Summarization**
 * <a href = "https://arxiv.org/pdf/2004.08795.pdf"> Extractive Summarization as Text Matching - MatchSUM </a>
+* <a href = "https://arxiv.org/pdf/2110.10150.pdf"> SUMM^N : A Multi-Stage Summarization Framework for Long Input Dialogues and Documents </a>
+
 ---
+
 **4. Abstractive Summarization**
 * <a href = "https://arxiv.org/pdf/1912.08777v2.pdf"> PEGASUS: Pre-training with Extracted Gap-sentences for
 Abstractive Summarization </a>
